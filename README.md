@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
   </a>
-  <h3 align="center">super market system</h3>
+  <h3 align="center">python math</h3>
 
   <p align="center">
-    this project is for a supermarket
+    This project will be used for math 
     </p>
 </p>
 
@@ -21,7 +21,7 @@
 
 
 ### About the website
-gurds will cheak you then it will ask you your tempreture.then it will allow you in the supermarket.then you can shop for the items in the shop.then it will give you a bill
+you will be able to do many math stuf
 
 #### Technology Used
 This project uses:
@@ -36,15 +36,15 @@ You can:
 
     a. clone the project and compile it yourself (Most up to date)
     
-    b.on terminal you write python3 main.py
+    b.run any fiel llike ____.py
 
 ### To Do List
 
 Add the various things that you are working on. 
 
-- [x] triking
-- [x] puting bill
-- [x] put items
+- [x] area of a circle
+- [x] curency converter
+- [x] ksh to dollers
 
 
 
@@ -56,13 +56,4 @@ MIT license
 
 ### Versions
 * Version 1.0  DATE 13/10/2020
-
-
-
-### Contact Information
-
-If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Hotel system](https://github.com/mallimuondu/super_market/issues) to report them.
-
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/LICENSE)
 
